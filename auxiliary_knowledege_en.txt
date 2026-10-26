@@ -1,0 +1,127 @@
+# Geometric Auxiliary Point Knowledge
+
+## Category 1: Special Points of Triangles
+
+### Condition: Triangle ABC with incenter I
+1. New points D, E, F are the tangent points of the incircle on sides BC, AC, AB
+2. New point L is the intersection of AI with the circumcircle of triangle ABC
+3. New point K is the intersection of line AI with line BC
+4. New point M is the intersection of line EF (connecting incircle tangent points on AB and AC) with line BC
+5. New point W is the diametrically opposite point of L on the circumcircle
+6. New point I_a is the excenter opposite vertex A
+7. New point O is the circumcenter of triangle ABC
+8. New point T is the antipode of A on the circumcircle
+9. New point N is the midpoint of segment EF (connecting incircle tangent points)
+10. New point X is the tangent point of the A-excircle on side BC
+11. New point V is the midpoint of segment BC
+12. New point U is the antipode of D on the incircle
+13. New point W is the intersection of the incircle with line AD
+14. New point Y is the intersection of AI with the incircle
+15. New point N is the nine-point center of triangle ABC
+
+### Condition: Triangle ABC with circumcenter O
+1. New points D, E, F are intersections of OA, OB, OC with the circumcircle
+2. New point V is the projection of O onto BC
+3. New point T is the midpoint of arc BC on the circumcircle
+4. New point L is the intersection of AO with BC
+5. New point W is the intersection of the circumcircle with the line through A parallel to BC
+6. New point X is the intersection of the perpendicular bisector of AO with BC
+7. New point H is the orthocenter of triangle ABC
+8. New point P is the intersection of the perpendicular from A to BC with the circumcircle
+9. New point N is the nine-point center of triangle ABC
+
+### Condition: Triangle ABC with orthocenter H
+1. New point D is the intersection of AH with BC
+2. New point G is the midpoint of AH
+3. New point E is the midpoint of BC
+4. New point L is the intersection of the extension of AH with the circumcircle
+5. New point O is the circumcenter of triangle ABC
+6. New point T is the antipode of A on the circumcircle
+7. New point N is the intersection of the angle bisector of ∠BAC with the circumcircle
+8. New point N is the nine-point center of triangle ABC
+
+### Condition: Triangle ABC with centroid G
+1. New point D is the intersection of AG extended with BC
+2. New point H is the projection of G onto BC
+3. New point E is symmetric to A about the midpoint of BC
+4. New point F is symmetric to G about the midpoint of BC
+5. New point O is the circumcenter of triangle ABC
+
+### Condition: Triangle ABC with A-excenter J
+1. New points D_a, E_a, F_a are tangent points of the A-excircle on BC, AB extended, AC extended
+2. New point L_a is the intersection of AJ with the circumcircle
+3. New point K_a is the intersection of line AJ with line BC
+4. New point M_a is the intersection of line E_aF_a (connecting excircle tangent points) with line BC
+5. New point W_a is the diametrically opposite point of L_a on the circumcircle
+6. New point I is the incenter of triangle ABC
+7. New point O is the circumcenter of triangle ABC
+8. New point T_a is the midpoint of arc BC (not containing A) on the circumcircle
+9. New point N_a is the midpoint of segment E_aF_a
+10. New point J_b is the B-excenter
+11. New point U is the antipode of D on the excircle
+12. New point W is the intersection of the excircle with line AD
+13. New point Y is the intersection of AJ with the excircle
+
+### Condition: Midpoint M of BC
+1. New point D is the midpoint of AC
+2. New point E on line AM extended such that ME = AM (midline extension)
+3. New point I is symmetric to M about the bisector of ∠C
+4. New point K is the intersection of the perpendicular bisector of AM with BC
+5. New point L is the centroid of triangle ABC
+6. New point F is the antipode of A on the circumcircle
+7. New point T is the midpoint of arc BC on the circumcircle
+8. New point W is the intersection of the circumcircle with the line through A parallel to BC
+9. New point H is the orthocenter of triangle ABC
+10. New point P is the intersection of the perpendicular from A to BC with the circumcircle
+11. New point Q is the antipode of B on the circumcircle
+12. New point N is the nine-point center of triangle ABC
+
+## Category 2: Special Angles and Shapes
+
+### Condition: Isosceles triangle ABC (AB = AC)
+1. New point D is the midpoint of BC
+2. New point O is the circumcenter of triangle ABC
+3. New point I is the incenter of triangle ABC
+
+### Condition: Right triangle ABC (∠BAC = 90°)
+1. New point D is the midpoint of the hypotenuse BC
+2. New point E is the projection of A onto BC
+3. New point I is the incenter of triangle ABC
+
+### Condition: Angle bisector AI dividing ∠BAC
+Same as incenter case
+
+### Condition: Median AM of triangle ABC
+Same as centroid and midpoint cases
+
+### Condition: Altitude AD of triangle ABC
+Same as orthocenter case
+
+## Category 3: Circle-Related Conditions
+
+### Condition: Triangle ABC with its circumcircle
+Same as circumcenter case
+
+### Condition: Triangle ABC with its incircle
+Same as incenter case
+
+### Condition: Circle w tangent to line l at point T
+1. New point A is the intersection of circle w with the perpendicular to l through T
+
+### Condition: Circles w1 and w2 tangent at T, point A on w1
+1. New point B is the intersection of line AT with circle w2
+
+## Category 4: General Configurations
+
+### Condition: Points E, F on sides AB, AC of triangle ABC
+1. New point K is the intersection of the circumcircles of triangles AEF and ABC
+2. New point L is the intersection of line EF with line BC
+3. New point T is the intersection of line EC with line FB
+4. New point W is the intersection of line AT with line BC
+
+### Condition: Quadrilateral ABCD
+1. New point E is the intersection of diagonals AC and BD
+2. New point F is the intersection of lines AB and CD
+3. New point G is the intersection of lines AD and BC
+4. New point M is the intersection of circumcircles of triangles BDF and CDG
+
