@@ -21,5 +21,10 @@ If you want to run the method, please follow the execution order specified in ru
 ## Citing this work
 
 ```
-TBC
+@inproceedings{liu2026auxgeoagent,
+  author = {Liu, Junyi and Guo, Jia and Kok, Stanley and Wang, Zihao and Wen, Zujie and Zhang, Zhiqiang},
+  title = {AuxGeoAgent: Synthesizing Challenging Geometry Proving Data via Planning and Symbolic Deduction},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = {2026}
+}
 ```
